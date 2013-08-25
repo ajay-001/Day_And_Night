@@ -34,7 +34,7 @@ If you wish to override the default images, use these parameters:<br/>
 E.g. <br/>
 ```
 $('body').changeBackground({
-  		bgDay : "img/day_new.jpg",
+  			bgDay : "img/day_new.jpg",
 			bgAfternoon : "img/afternoon_new.jpg",
 			bgNight : "img/night_new.jpg"
 		})
